@@ -1,5 +1,5 @@
 
-void drawCharacter(float x, float y, float r, int s) {
+void drawpacman(float x, float y, float r, int s) {
   fill(color(255, 255, 0));
   noStroke();
   if (s==1){
